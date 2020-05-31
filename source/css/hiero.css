@@ -558,7 +558,7 @@ object {
 	}
 .entry-thumbnail {
 	float: left;
-	width: 250px;
+	width: 100%;
 	height: auto;
 	margin: 0 20px 20px 0;
 	border: 5px solid #e6e6e6;
@@ -573,7 +573,7 @@ object {
 	margin: 0 0 20px;
 	}
 .entry-summary {
-	margin: 0 0 20px 260px;
+	margin: 0 0 20px 0;
 	}
 .entry-footer {
 	clear: both;
