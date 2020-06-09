@@ -17,7 +17,7 @@
 
   var s = [
         '<div style="display: none;">',
-          '<script src="https://s11.cnzz.com/z_stat.php?id=1260716016&web_id=1260716016" language="JavaScript"></script>',
+          '<script src="https://s11.cnzz.com/z_stat.php?id=1278978683&web_id=1278978683" language="JavaScript"></script>',
         '</div>'
       ].join('');
 
